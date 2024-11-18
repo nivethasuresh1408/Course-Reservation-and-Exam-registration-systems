@@ -2,6 +2,7 @@
 # Register Number: 212223040157
 # Date :25-10-2024
 # Aim
+To develop a project Student Registration System using Star UML
 # Use case Diagrams
 ![386862872-aa4ec686-3352-4270-bf8d-b75e1141a62b](https://github.com/user-attachments/assets/77371bdc-dd04-4cc4-a6d0-8d764210a1f6)
 
